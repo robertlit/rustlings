@@ -16,19 +16,3 @@ public/
 
 # Local Netlify folder
 .netlify
-/flake.lock
-/flake.nix
-/.gitpod.yml
-/.editorconfig
-/.markdownlint.yml
-/.devcontainer/
-/target/
-/.github/
-/tests/
-/.all-contributorsrc
-/src/
-/.vscode/
-/install.ps1
-/install.sh
-/oranda.json
-/shell.nix
